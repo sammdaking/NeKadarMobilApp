@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313465970127",
+    "project_id": "nekadarjavaapp",
+    "storage_bucket": "nekadarjavaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313465970127:android:e79561f8a8bad2693986ba",
+        "android_client_info": {
+          "package_name": "com.example.nekadarjavaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313465970127-5me8dmes1evimmofnit6tknidsb6emt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-hQv524XSz8DS58U2sKJ3q3n7O5AS33k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313465970127-5me8dmes1evimmofnit6tknidsb6emt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
